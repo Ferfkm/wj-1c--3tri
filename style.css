@@ -14,3 +14,24 @@ p{
 img{
     width: 150px;
     margin-left: 300px;
+}
+.cabecalho{
+    background-color: azure;
+    display: flex;
+}
+.logoimg{
+    width: 90px;
+    height: 90px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: blueviolet;
+    padding-left: 30px;
+}
